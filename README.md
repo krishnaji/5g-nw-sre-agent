@@ -90,4 +90,5 @@ Combined/More Open-Ended:
 "What is the overall health of the 5G core network?" 
 
 
+![](nw-sre-agent-result.png)
 
