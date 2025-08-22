@@ -1,0 +1,5 @@
+google-adk
+google-cloud-aiplatform[agent_engines,adk,langchain,ag2,llama_index]>=1.88.0
+python-dotenv
+reportlab
+cloudpickle==3.0
